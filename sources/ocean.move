@@ -11,6 +11,8 @@ module ocean_token::ocean {
     fun init(witness: OCEAN, ctx: &mut TxContext)
     {
         let icon_url = url::new_unsafe_from_bytes(b"https://file.walletapp.waveonsui.com/logos/ocean.png");
+        
+        // Creates a regulated currency, returning the treasury and deny capabilities, along with associated metadata.
         let (treasury_cap, deny_cap, metadata) = coin::create_regulated_currency<OCEAN>(
             witness,
             9,
