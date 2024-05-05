@@ -2,7 +2,7 @@
 
 ## Overview
 
-Introducing Ocean Token, an asset designed for the next generation of Web3 Wallets - Wave Wallet. As the digital economy flourishes, Ocean Token serves as a powerful role within Wave Wallet, seamlessly integrating necessary features to navigate blockchain complexities and enhance your financial pursuits. This module utilizes Sui-specific features like coins, treasury management, and deny lists to provide a controlled environment for token operations including minting, transferring, and burning of tokens.
+Introducing Ocean Token, an asset designed for the next generation of Web3 Wallets - Wave Wallet. As the digital economy flourishes, Ocean Token serves as a powerful role within Wave Wallet, seamlessly integrating necessary features to navigate blockchain complexities. This module utilizes Sui-specific features like treasury management, and provide a controlled environment for token operations including minting, transferring, and burning of tokens.
 
 ## Features
 
